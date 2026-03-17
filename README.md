@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00D4FF&center=true&vCenter=true&width=750&lines=Cyberpunk+Interface+Designer;Fullstack+Developer;Technology+%2B+Design+%2B+Creativity;Building+Digital+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00D4FF&center=true&vCenter=true&width=750&lines=Frontend+And+Backend;Fullstack+Developer;Technology+%2B+Design+%2B+Creativity;Building+Digital+Experiences"/>
 </p>
 
 <p align="center">
